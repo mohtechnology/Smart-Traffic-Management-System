@@ -46,6 +46,6 @@ Smart Traffic Management System – Code Explanation
 https://sih-chinu.blogspot.com/2025/09/smart-traffic-management-system-code.html
 
 Smart Traffic Management System ppt
-https://drive.google.com/file/d/1kFYCgxH7zF4DXcQZwxAwICo3zX4E_e7s/view?usp=sharing
+https://drive.google.com/file/d/1IbuL9I4d3Dmjkc_63BHJK2axVQzi0LdY/view?usp=sharing
 
 
