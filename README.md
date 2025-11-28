@@ -1,5 +1,3 @@
-# hv-21
-
 # Smart Traffic Management System  
 
 A real-time traffic monitoring and management system using **OpenCV, Flask, and Machine Learning**.  
@@ -36,16 +34,3 @@ It detects vehicles from live video feeds, counts them, and adjusts traffic sign
 5.	Open browser at:
    bash :
    http://127.0.0.1:5000/
-
-## Article and Referance
-
-Smart Traffic Management System
-https://sih-chinu.blogspot.com/2025/09/smart-traffic-management-system.html
-
-Smart Traffic Management System – Code Explanation
-https://sih-chinu.blogspot.com/2025/09/smart-traffic-management-system-code.html
-
-Smart Traffic Management System ppt
-https://drive.google.com/file/d/1IbuL9I4d3Dmjkc_63BHJK2axVQzi0LdY/view?usp=sharing
-
-
